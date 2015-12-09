@@ -1,0 +1,8 @@
+
+2015/12/09 10:18:16 tb_publish.go:47: =====job start.=====
+
+2015/12/09 10:18:16 printlog.go:49: building file list ... done
+
+2015/12/09 10:18:16 printlog.go:51: <nil>
+
+2015/12/09 10:18:16 tbsync.go:15: 123
